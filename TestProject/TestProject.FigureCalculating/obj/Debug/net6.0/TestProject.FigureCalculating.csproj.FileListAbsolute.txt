@@ -1,0 +1,12 @@
+D:\MindBox\TestProject\TestProject.FigureCalculating\bin\Debug\net6.0\TestProject.FigureCalculating.deps.json
+D:\MindBox\TestProject\TestProject.FigureCalculating\bin\Debug\net6.0\TestProject.FigureCalculating.dll
+D:\MindBox\TestProject\TestProject.FigureCalculating\bin\Debug\net6.0\ref\TestProject.FigureCalculating.dll
+D:\MindBox\TestProject\TestProject.FigureCalculating\bin\Debug\net6.0\TestProject.FigureCalculating.pdb
+D:\MindBox\TestProject\TestProject.FigureCalculating\obj\Debug\net6.0\TestProject.FigureCalculating.csproj.AssemblyReference.cache
+D:\MindBox\TestProject\TestProject.FigureCalculating\obj\Debug\net6.0\TestProject.FigureCalculating.GeneratedMSBuildEditorConfig.editorconfig
+D:\MindBox\TestProject\TestProject.FigureCalculating\obj\Debug\net6.0\TestProject.FigureCalculating.AssemblyInfoInputs.cache
+D:\MindBox\TestProject\TestProject.FigureCalculating\obj\Debug\net6.0\TestProject.FigureCalculating.AssemblyInfo.cs
+D:\MindBox\TestProject\TestProject.FigureCalculating\obj\Debug\net6.0\TestProject.FigureCalculating.csproj.CoreCompileInputs.cache
+D:\MindBox\TestProject\TestProject.FigureCalculating\obj\Debug\net6.0\TestProject.FigureCalculating.dll
+D:\MindBox\TestProject\TestProject.FigureCalculating\obj\Debug\net6.0\ref\TestProject.FigureCalculating.dll
+D:\MindBox\TestProject\TestProject.FigureCalculating\obj\Debug\net6.0\TestProject.FigureCalculating.pdb
